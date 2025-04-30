@@ -2,7 +2,7 @@
 
 A Python script that converts video files into ASCII art and plays them back directly in your terminal/console window. Optimized for speed using NumPy and OpenCV.
 
-![Demo GIF](https://github.com/ky0und/video_to_ascii_terminal/demo.gif)
+![Demo GIF](./demo.gif)
 
 ## Features
 
