@@ -27,8 +27,7 @@ A Python script that converts video files into ASCII art and plays them back dir
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/ky0und/video_to_ascii_terminal.git
     ```
 
 2.  **Install the required Python libraries:**
