@@ -75,7 +75,8 @@ Press Ctrl + C in the terminal to stop the script.
 **-f**, **--font** - (Optional): String specifying the desired console font name (e.g., "Consolas", "Courier New"). Primarily affects Windows console setup. Defaults to "Consolas".
 
 **--speed** - (Optional): Playback speed multiplier (e.g., 1.0 is normal, 2.0 is 2x speed).
-#License
+
+# License
 
 CC0 1.0 Universal
 
